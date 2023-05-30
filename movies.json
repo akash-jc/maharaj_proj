@@ -1,34 +1,40 @@
 {
     "movieslist" : [
         {
-            "Title": "Varisu",
-            "Genre":"Family",
-            "image":"https://static.moviecrow.com/gallery/20220622/200265-FV2ogeAagAEl_YM.jfif",
-            "certi":["U","U/A","A"]
+            "Title": "Ponniyin Selvan: II",
+            "Genre":"Drama",
+            "image":"https://baapofmovies.com/wp-content/uploads/2023/04/MV5BMTU0MjViMDctMWM2Ni00MTE2LTkxYWYtYzExMzUwZDYwOTMwXkEyXkFqcGdeQXVyMTU3NDgzNzM4._V1_.jpg",
+            "certi":["U/A"]
         },
         {
-            "Title": "Kaithi",
+            "Title": "Pathu Thala",
             "Genre":"Action",
-            "image":"https://pbs.twimg.com/media/E0dXWSFVEAE6mvc.jpg",
-            "certi":["U","U/A"]
+            "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pathu-thala-et00333005-1672646997.jpg",
+            "certi":["U/A"]
         },
         {
-            "Title": "Vikram",
-            "Genre":"Action",
-            "image":"http://www.impawards.com/intl/india/2022/posters/vikram.jpg",
-            "certi":["U","U/A"]
+            "Title": "Viduthalai Part 1",
+            "Genre":"Crime",
+            "image":"https://static.moviecrow.com/gallery/20220906/204565-vp1.jpg",
+            "certi":["A"]
         },
         {
-            "Title": "Love Today",
-            "Genre":"Romantic",
-            "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-today-et00343241-1667476540.jpg",
-            "certi":["U","U/A"]
+            "Title": "Vaathi",
+            "Genre":"Message",
+            "image":"https://m.media-amazon.com/images/M/MV5BOTA0OTkxZjEtNTgwZC00NDgwLTljNDAtODhlMDBmMzU0N2EzXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+            "certi":["U"]
         },
         {
-            "Title": "Ponniyin Selvan: I",
-            "Genre":"History",
-            "image":"https://w0.peakpx.com/wallpaper/828/229/HD-wallpaper-ponniyin-selvan-part-1-tamil-movie.jpg",
-            "certi":["U","U/A"]
+            "Title": "Agilan",
+            "Genre":"Drama",
+            "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/agilan-et00322925-1662624430.jpg",
+            "certi":["U/A"]
+        },
+        {
+            "Title": "The Great Indian Kitchen",
+            "Genre":"Drama",
+            "image":"https://pagalnew.com/coverimages/siru-deivam-the-great-indian-kitchen-500-500.jpg",
+            "certi":["U/A"]
         }
     ]
 }
