@@ -3,27 +3,32 @@
         {
             "Title": "Varisu",
             "Genre":"Family",
-            "image":"https://static.moviecrow.com/gallery/20220622/200265-FV2ogeAagAEl_YM.jfif"
+            "image":"https://static.moviecrow.com/gallery/20220622/200265-FV2ogeAagAEl_YM.jfif",
+            "certi":["U","U/A"]
         },
         {
             "Title": "Kaithi",
             "Genre":"Action",
-            "image":"https://pbs.twimg.com/media/E0dXWSFVEAE6mvc.jpg"
+            "image":"https://pbs.twimg.com/media/E0dXWSFVEAE6mvc.jpg",
+            "certi":["U","U/A"]
         },
         {
             "Title": "Vikram",
             "Genre":"Action",
-            "image":"http://www.impawards.com/intl/india/2022/posters/vikram.jpg"
+            "image":"http://www.impawards.com/intl/india/2022/posters/vikram.jpg",
+            "certi":["U","U/A"]
         },
         {
             "Title": "Love Today",
             "Genre":"Romantic",
-            "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-today-et00343241-1667476540.jpg"        
+            "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-today-et00343241-1667476540.jpg",
+            "certi":["U","U/A"]
         },
         {
             "Title": "Ponniyin Selvan: I",
             "Genre":"History",
-            "image":"https://w0.peakpx.com/wallpaper/828/229/HD-wallpaper-ponniyin-selvan-part-1-tamil-movie.jpg"
+            "image":"https://w0.peakpx.com/wallpaper/828/229/HD-wallpaper-ponniyin-selvan-part-1-tamil-movie.jpg",
+            "certi":["U","U/A"]
         }
     ]
 }
