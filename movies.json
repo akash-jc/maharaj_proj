@@ -1,6 +1,12 @@
 {
     "movieslist" : [
         {
+            "Title": "LEO",
+            "Genre":"Action",
+            "image":"https://assets-in.bmscdn.com/discovery-catalog/events/et00351731-qymwnreevr-landscape.jpg",
+            "certi":["U/A"]
+        },
+        {
             "Title": "Ponniyin Selvan: II",
             "Genre":"Drama",
             "image":"https://baapofmovies.com/wp-content/uploads/2023/04/MV5BMTU0MjViMDctMWM2Ni00MTE2LTkxYWYtYzExMzUwZDYwOTMwXkEyXkFqcGdeQXVyMTU3NDgzNzM4._V1_.jpg",
